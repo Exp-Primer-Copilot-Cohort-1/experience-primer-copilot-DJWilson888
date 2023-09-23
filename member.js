@@ -1,0 +1,25 @@
+function skillsMember() {
+    var member = document.getElementById("member");
+    var memberValue = member.options[member.selectedIndex].value;
+    var memberText = member.options[member.selectedIndex].text;
+    var memberSkills = document.getElementById("memberSkills");
+    var memberSkillsValue = memberSkills.options[memberSkills.selectedIndex].value;
+    var memberSkillsText = memberSkills.options[memberSkills.selectedIndex].text;
+    var memberSkillsList = document.getElementById("memberSkillsList");
+    var memberSkillsListValue = memberSkillsList.options[memberSkillsList.selectedIndex].value;
+    var memberSkillsListText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListList = document.getElementById("memberSkillsListList");
+    var memberSkillsListListValue = memberSkillsListList.options[memberSkillsListList.selectedIndex].value;
+    var memberSkillsListListText = memberSkillsListList.options[memberSkillsListList.selectedIndex].text;
+    var memberSkillsListListList = document.getElementById("memberSkillsListListList");
+    var memberSkillsListListListValue = memberSkillsListListList.options[memberSkillsListListList.selectedIndex].value;
+    var memberSkillsListListListText = memberSkillsListListList.options[memberSkillsListListList.selectedIndex].text;
+    var memberSkillsListListListList = document.getElementById("memberSkillsListListListList");
+    var memberSkillsListListListListValue = memberSkillsListListListList.options[memberSkillsListListListList.selectedIndex].value;
+    var memberSkillsListListListListText = memberSkillsListListListList.options[memberSkillsListListListList.selectedIndex].text;
+    var memberSkillsListListListListList = document.getElementById("memberSkillsListListListListList");
+    var memberSkillsListListListListListValue = memberSkillsListListListListList.options[memberSkillsListListListListList.selectedIndex].value;
+    var memberSkillsListListListListListText = memberSkillsListListListListList.options[memberSkillsListListListListList.selectedIndex].text;
+    var memberSkillsListListListListListList = document.getElementById("memberSkillsListListListListListList");
+    var memberSkillsListListListListListListValue = memberSkillsListListListListListList.options[memberSkillsListListListListListList.selectedIndex].value;
+    var memberSkillsListListListListListListText = memberSkillsListListListListListList.options[memberSkillsListListListList
